@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.Change.resources
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.choose.resources
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.Reconfirm.resources
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.Record_money.resources
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.Record_thing.resources
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\user\Downloads\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
